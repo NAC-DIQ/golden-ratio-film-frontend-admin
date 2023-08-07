@@ -1,0 +1,13 @@
+.gallery-holder {
+    position: relative;
+}
+
+.gallery-holder span {
+    background-color: red;
+    padding: 5px 7px;
+    border-radius: 50%;
+    color: white;
+    position: absolute;
+    right: 25%;
+    cursor: pointer;
+}
