@@ -3,7 +3,7 @@
 // export const API_URL =
 //   'http://ubuntu@ec2-3-108-223-46.ap-south-1.compute.amazonaws.com/api/';
 
-export const API_URL = 'http://43.205.128.125:3500/';
+export const API_URL = 'https://3.111.144.198/';
 
 export const ImageSize = {
   mainBanner: '1933x1096',
